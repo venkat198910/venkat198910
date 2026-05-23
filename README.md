@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋, I'm Venkateswarlu Derangula
+
+## DevOps | Cloud | Platform Engineer
+
+Experienced DevOps Engineer with 9+ years of experience in AWS, Kubernetes, Terraform, GitOps, CI/CD, and Production Infrastructure.
+
+---
+
+## 🚀 Tech Stack
+
+- AWS
+- Kubernetes
+- Terraform
+- Docker
+- Helm
+- ArgoCD
+- Jenkins
+- GitHub Actions
+- Prometheus
+- Grafana
+- Linux
+
+---
+
+## 📌 Featured Projects
+
+### EKS GitOps Platform
+Production-grade Kubernetes platform using:
+- EKS
+- Terraform
+- ArgoCD
+- Helm
+- Prometheus
+
+### CI/CD Automation
+Enterprise CI/CD pipelines using:
+- Jenkins
+- GitHub Actions
+- SonarQube
+- Docker
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified
+- Kubernetes
+- Terraform
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Email](mailto:your.email@domain.com)
+
+---
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=venkat198910&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat198910&theme=github-dark-blue" alt="GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat198910&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,helm,jenkins,githubactions,prometheus,grafana,linux" />
+</p>
+
+---
+
+## 🪄 Dynamic Profile Card
+
+<a href="https://gprm.itsvg.in/api/profile?username=venkat198910" target="_blank">
+	<img src="https://gprm.itsvg.in/api/profile?username=venkat198910" width="100%" alt="GPRM Profile Card" />
+</a>
+
+---
 
 <!--
-**venkat198910/venkat198910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Add architecture diagrams/screenshots to your project READMEs for maximum recruiter impact.
 -->
