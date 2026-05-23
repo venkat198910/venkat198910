@@ -16,7 +16,7 @@ Hi 👋, I'm Venkateswarlu Derangula<br>DevOps | Cloud | Platform Engineer<br>Ex
 ## 🛠️ Skills & Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,nginx,airflow" />
 </p>
 
 <!-- # 📊 GitHub Stats:
